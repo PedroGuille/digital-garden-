@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Lecciones/A1/1 - Alfabeto/"}
+{"dg-publish":true,"permalink":"/Lecciones/A1/1 - Alfabeto/","tags":["gardenEntry"]}
 ---
 
 ![Pasted image 20240121184701.png](/img/user/imgs/Pasted%20image%2020240121184701.png)
