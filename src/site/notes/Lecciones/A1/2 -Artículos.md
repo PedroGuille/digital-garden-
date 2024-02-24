@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecciones/a1/2-articulos/"}
+{"dg-publish":true,"permalink":"/Lecciones/A1/2 -Artículos/"}
 ---
 
 ## Introducción a los artículos
@@ -404,4 +404,6 @@ Si el apellido se utiliza para referirse a un grupo familiar, debe ir precedido 
 |I Medici sono un’antica dinastia fiorentina.|Los Medici son una antigua dinastía florentina.|
 |I Borgia furono molto influenti in Italia.|Los Borgia fueron muy influyentes en Italia.|
 
+
+[[Lecciones/A1/3 - Sustantivos\|3 - Sustantivos]]
 
