@@ -25,7 +25,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% if settings.dgEnableSearch === true %}
       {%include "components/searchContainer.njk"%}
     {% endif %}
-{%include "components/review.njk"%}
     <main class="content cm-s-obsidian {{contentClasses}}">
       <header>
         {% if settings.dgShowInlineTitle === true %}
@@ -60,7 +59,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.header %}
         {% include imp %}
       {% endfor %}
-{%include "components/review.njk"%}
+
       </header>
       {% for imp in dynamics.common.beforeContent %}
         {% include imp %}
@@ -75,7 +74,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
-{%include "components/review.njk"%}
 
     </main>
 
