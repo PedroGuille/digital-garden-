@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecciones/a1/3-sustantivos/"}
+{"dg-publish":true,"permalink":"/Lecciones/A1/3 - Sustantivos/"}
 ---
 
 Un sustantivo, llamado “sostantivo” en italiano, es una palabra que denota una persona, un  
